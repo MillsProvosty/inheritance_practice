@@ -1,6 +1,7 @@
 ## Inheritance Practice
 
-### Step 1 - Review
+### Step 1 - Set up & Review
+- Clone this down to your machine and open in text editor.
 - Familiarize yourself with both classes and the runner file. Make predictions as to what will print when you run the runner.
 - Run the runner and verify your predictions.
 
