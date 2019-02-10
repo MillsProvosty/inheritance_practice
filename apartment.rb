@@ -1,5 +1,5 @@
 class Apartment
-  attr_reader :rooms, :bedrooms, :residents
+  attr_reader :rooms, :bathrooms, :residents
 
   def initialize(rooms, bathrooms, residents)
       @rooms = rooms
